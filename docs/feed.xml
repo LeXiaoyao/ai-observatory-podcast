@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>AI观测站</title>
+    <link>https://lexiaoyao.github.io/ai-observatory-podcast/</link>
+    <description>AI观测站：关注人工智能、科技产业、AI产品、模型进展与行业变化。</description>
+    <language>zh-CN</language>
+    <itunes:author>AI观测站</itunes:author>
+    <itunes:summary>AI观测站：用通俗语言解读 AI 行业变化、模型进展、产品趋势和科技公司动态。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Mon, 27 Apr 2026 12:00:00 +0800</lastBuildDate>
+  </channel>
+</rss>
