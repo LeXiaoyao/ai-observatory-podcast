@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>AI观测站</title>
     <link>https://lexiaoyao.github.io/ai-observatory-podcast/</link>
@@ -8,6 +8,18 @@
     <itunes:author>AI观测站</itunes:author>
     <itunes:summary>AI观测站：用通俗语言解读 AI 行业变化、模型进展、产品趋势和科技公司动态。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 27 Apr 2026 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:03:21 +0800</lastBuildDate>
+    <item>
+      <title>奥特曼亮刀闯任务，梁文锋开卷会昇腾</title>
+      <link>https://lexiaoyao.github.io/ai-observatory-podcast/episodes/20260427E3/</link>
+      <guid isPermaLink="false">ai-observatory-20260427E3</guid>
+      <pubDate>Mon, 27 Apr 2026 14:03:21 +0800</pubDate>
+      <description>本期是「AI 观测站 · 周长文」第一期，固定节奏每周一更。这一期把 GPT-5.5、DeepSeek V4、AI 写代码、GPT Image 2 和国产算力放在同一张图里，回答一个问题：为什么本周 AI 不是单点升级，而是工作流被整体重写。 本期要点 1) 00:00 开场判断：AI 已经进入"下半场"，竞争从"模型分数高一点"升级到"一整套工作流谁能落地"。 2) 00:51 本周三大信号合流：OpenAI 4 月 23 日发布 GPT-5.5，先进 ChatGPT 付费入口和 Codex；同周 ChatGPT Images 2.0 上线，API 模型名 gpt-image-2；DeepSeek 4 月 24 日发布 V4 预览（V4-Pro / V4-Flash），据 Reuters 报道华为 Ascend supernode 将支持 V4。 3) 02:31 不再只看跑分：模型从"产生内容"走向"完成工作"——保持上下文、调用工具、生成中间结果、等待人类验收，人的位置同时往前移和往后移。 4) 04:44 老办法不够用了：丢掉"看参数、看榜单"，建立四个新问题——能否执行长任务、能否稳定调用工具、成本能否进入真实生产、能否被放进可控的产品和基础设施里。…</description>
+      <enclosure url="https://lexiaoyao.github.io/ai-observatory-podcast/episodes/20260427E3/audio/20260427E3.mp3" length="16064300" type="audio/mpeg" />
+      <itunes:duration>00:33:28</itunes:duration>
+      <itunes:image href="https://lexiaoyao.github.io/ai-observatory-podcast/episodes/20260427E3/covers/20260427E3.png" />
+      <itunes:summary>本期是「AI 观测站 · 周长文」第一期，固定节奏每周一更。这一期把 GPT-5.5、DeepSeek V4、AI 写代码、GPT Image 2 和国产算力放在同一张图里，回答一个问题：为什么本周 AI 不是单点升级，而是工作流被整体重写。 本期要点 1) 00:00 开场判断：AI 已经进入"下半场"，竞争从"模型分数高一点"升级到"一整套工作流谁能落地"。 2) 00:51 本周三大信号合流：OpenAI 4 月 23 日发布 GPT-5.5，先进 ChatGPT 付费入口和 Codex；同周 ChatGPT Images 2.0 上线，API 模型名 gpt-image-2；DeepSeek 4 月 24 日发布 V4 预览（V4-Pro / V4-Flash），据 Reuters 报道华为 Ascend supernode 将支持 V4。 3) 02:31 不再只看跑分：模型从"产生内容"走向"完成工作"——保持上下文、调用工具、生成中间结果、等待人类验收，人的位置同时往前移和往后移。 4) 04:44 老办法不够用了：丢掉"看参数、看榜单"，建立四个新问题——能否执行长任务、能否稳定调用工具、成本能否进入真实生产、能否被放进可控的产品和基础设施里。…</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
